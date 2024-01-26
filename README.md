@@ -1,2 +1,2 @@
 # jdmedia.github.io
-The JD Media site
+The JD Media site.
